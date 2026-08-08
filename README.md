@@ -47,14 +47,14 @@
 ### ⚡ One-Command Installation (Recommended for Termux)
 Copy and paste this single command to install everything automatically:
 ```bash
-pkg update && pkg upgrade -y && pkg install python git -y && git clone https://github.com/BgxHost/nova_extractor.git && cd nova_extractor && pip install -r requirements.txt && clear && python nova_extractor.py
+pkg update && pkg upgrade -y && pkg install python git -y && git clone https://github.com/Exzalx/nova_extractor.git && cd nova_extractor && pip install -r requirements.txt && clear && python nova_extractor.py
 ```
 
 ### 📱 Manual Installation (Termux / Android)
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/BgxHost/nova_extractor.git
+git clone https://github.com/Exzalx/nova_extractor.git
 cd nova_extractor
 pip install -r requirements.txt
 python nova_extractor.py
@@ -64,7 +64,7 @@ python nova_extractor.py
 ```bash
 sudo apt update && sudo apt upgrade
 sudo apt install python3 python3-pip git
-git clone https://github.com/BgxHost/nova_extractor.git
+git clone https://github.com/Exzalx/nova_extractor.git
 cd nova_extractor
 pip3 install -r requirements.txt
 python3 nova_extractor.py
