@@ -132,7 +132,7 @@ All extracted data is neatly organized in the `crawl_output/` directory:
 - **Clear Data:** Use option `[7]` to safely wipe the SQLite database and output folder.
 - **Support & Updates:** Join our official Telegram community for tool updates, support, and discussions:
   - **Official Channel:** [t.me/CardSELLER789](https://t.me/CardSELLER789)
-  - **Developer:** [BgxHost](https://github.com/BgxHost)
+  - **Developer:** [BgxHost](https://t.me/BgxHost)
 
 ---
 
