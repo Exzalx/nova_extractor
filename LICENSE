@@ -19,3 +19,86 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+---
+
+## 🙏 Credits & Acknowledgments
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 **Python** | Core programming language |
+| 🌐 **aiohttp** | Async HTTP client |
+| 🗄️ **SQLite** | Database engine |
+| 📱 **Termux** | Android terminal emulator |
+| 🤖 **Android** | Mobile platform |
+
+---
+
+## 📊 Project Stats
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 📝 Total Lines of Code | ~1200+ |
+| 🎯 Features | 25+ |
+| 🐛 Bugs Fixed | 10+ |
+| ⭐ Community Support | Active |
+| 🔄 Updates | Regular |
+
+</div>
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] 🌐 Proxy rotation support
+- [ ] 📸 Screenshot capture
+- [ ] 🎭 Headless browser integration
+- [ ] 📊 Web-based dashboard
+- [ ] 🔔 Real-time notifications
+- [ ] 📱 Mobile app version
+- [ ] 🤖 AI-powered content analysis
+
+---
+
+## ⭐ Show Your Support
+
+If you find this tool useful, please consider:
+
+- 🌟 **Starring** this repository
+- 🍴 **Forking** for your own modifications
+- 📢 **Sharing** with others
+- 🐛 **Reporting** any issues
+- 💬 **Joining** our Telegram channel
+- ☕ **Supporting** the developer
+
+---
+
+## 📝 Changelog
+
+### v1.0.0 (2026-08-09)
+- 🎉 Initial release
+- ✅ Async crawling with login support
+- ✅ Smart duplicate detection
+- ✅ Multi-format export
+- ✅ Graceful Ctrl+C handling
+- ✅ Android intent support
+
+---
+
+<div align="center">
+
+### 🎯 Happy Crawling! 🕷️
+
+**Made with 💻 + ☕ by BgxHost**
+
+[⬆ Back to Top](#-nova-extractor-)
+
+---
+
+**🔗 Don't forget to join:** [https://t.me/CardSELLER789](https://t.me/CardSELLER789)
+
+</div>
